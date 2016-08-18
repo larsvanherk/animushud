@@ -1,0 +1,11 @@
+{
+	"title"		:	"Animus HUD",
+	"type"		:	"effects",
+	"tags"		:	[ "roleplay", "realism", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
